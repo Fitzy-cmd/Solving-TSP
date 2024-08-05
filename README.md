@@ -1,6 +1,8 @@
 # Solving the Travelling Salesman Problem - Dynamic Programming and Hill Climbing
 This project was sourced from a university project completed during my enrollment. The original repository has been kept private as per the university code of conduct, so this repository has all references to the university removed.
 
+This project achieved a final mark of **87%**
+
 ### Execution Line
 
 The program can be executed via the following line:
