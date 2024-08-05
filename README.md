@@ -21,8 +21,6 @@ The program can be executed by running the "<b>run.bat</b>" file in the folder. 
 To execute via command line, launch the command prompt and change directory into the folder with the .java files and associated text input files. Run the command in the first section and press enter. The file should execute as expected. 
 
 ### Analysis Table
-
-```plain
 +--------------+--------------------+--------------------+
 | Problem Size | Execution Time (ms)| Solution Length    |
 |              +---------+----------+---------+----------+
@@ -38,7 +36,6 @@ To execute via command line, launch the command prompt and change directory into
 +--------------+---------+----------+---------+----------+
 | 26           | 42677.6 | 0.3      | 368     | 945      |
 +--------------+---------+----------+---------+----------+
-```
 
 ### Solution Analysis
 
