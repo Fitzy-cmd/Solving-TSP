@@ -2,7 +2,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 
-class A2 {
+class Main {
     public static void main(String[] args) throws FileNotFoundException {
         int maxIterations = Integer.parseInt(args[0]);
         int maxNoImprovementCutoff = Integer.parseInt(args[1]);
