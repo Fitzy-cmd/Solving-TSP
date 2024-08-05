@@ -10,7 +10,7 @@ java A2 N P tsp22.txt tsp23.txt tsp24.txt tsp25.txt tsp26.txt
 ```
 The N and P values are both intended to be integers, and represent the Max Number of Iterations (N) and the Amount of Checks that can occur with no improvements to the current solution (P).
 
-You can include additional files, or remove other files by simply adding another filename to the end of the command. The program will only execute the files supplied in order that they're given.
+You can include additional files, or remove other files by simply adding or removing file names in the arguments. Ensure that they are all text files. The program will only execute the files supplied in order that they're given.
 
 ### Executing via file
 
